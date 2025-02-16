@@ -1,0 +1,6 @@
+@MyBoardsProject_HostAddress = http://localhost:5149
+
+GET {{MyBoardsProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
